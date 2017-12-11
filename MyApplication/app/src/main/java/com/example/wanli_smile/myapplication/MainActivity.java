@@ -8,6 +8,8 @@ public class MainActivity extends AppCompatActivity {
     int a = 10;
     /**branch 添加的*/
     int b = 11;
+    /**branch也来修改*/
+    int c = 15;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
