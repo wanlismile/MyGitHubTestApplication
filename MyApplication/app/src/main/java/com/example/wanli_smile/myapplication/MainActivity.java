@@ -14,6 +14,8 @@ public class MainActivity extends AppCompatActivity {
     int d = 10;
     /**branche的e*/
     int e = 11;
+    /**来自master添加的f*/
+    int f = 11;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
